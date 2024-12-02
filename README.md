@@ -7,7 +7,7 @@ The specific algorithm is implemented in the kmeans_plus_plus.py file.
 
 To evaluate the efficiency of the proposed method, run 'main.py'
 
-The Parameter Sensitivity Analysis can be verified by changing the parameters used in 'parameter_sensivity.py'.
+The Parameter Sensitivity Analysis can be verified by changing the parameters used in 'parameter_sensivity.py'. The MixedSinx file is too large. If you need it, you can email me to request it.
 
 ## The interface designed for the UCR time series.
 
