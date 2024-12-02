@@ -16,7 +16,7 @@ download and read the UCR dataset(https://www.cs.ucr.edu/~eamonn/time_series_dat
 In the main file, just set the file_name to the time series file name you want to test.
 
 ## General Example
-Four datasets 'coil100'， 'Wafer' ， 'mixed_sinx' and 'gaussin' are provided. Just run 'main.py'
+Two datasets 'coil100'， 'Wafer' are provided. Just run 'main.py'
 
 **Requirements**: NumPy, scipy, matplotlib, math, cv2, pandas,PIL
 
