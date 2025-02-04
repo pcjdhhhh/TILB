@@ -15,6 +15,8 @@ download and read the UCR dataset(https://www.cs.ucr.edu/~eamonn/time_series_dat
 
 In the main file, just set the file_name to the time series file name you want to test.
 
+In addition to the datasets in the paper, we have conducted experiments on all datasets in the UCR collection with more than 700 samples (53 newly added datasets). The experimental results can be found in the "results" folder. We have also generated critical difference diagrams for the newly added datasets, which can similarly be found in the "results" folder.
+
 ## General Example
 Two datasets 'coil100'， 'Wafer' are provided. Just run 'main.py'
 
